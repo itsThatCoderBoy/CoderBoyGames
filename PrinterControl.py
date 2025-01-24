@@ -1,4 +1,4 @@
-##MADE BY CODERBOY. DO NOT DISTRIBUTE.
+##MADE BY CODERBOY.
 
 # STEPPER MOTOR AND SERVO CONTROL ======================================================================================================
 
